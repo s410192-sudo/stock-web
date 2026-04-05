@@ -1,1 +1,1 @@
-# stosk-web
+# stock-web
